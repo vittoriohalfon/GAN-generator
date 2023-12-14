@@ -34,7 +34,3 @@ The GAN consists of two primary components:
 ## Results
 
 After training, the GAN is capable of generating new images that reliably resemble the fashion items from the Fashion MNIST dataset. Sample images are saved in the repository for reference.
-
-## Contributing
-
-Feel free to fork this repository, experiment with the architecture, or integrate it with different datasets. Pull requests for improvements and extensions are welcome.
