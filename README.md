@@ -26,11 +26,11 @@ To use this notebook:
 
 ## Models
 
-The GAN consists of two primary components:
+GAN consists of two primary components:
 
-- **Generator**: Takes a random noise vector as input and generates synthetic images.
-- **Discriminator**: Tries to distinguish between real images from the dataset and fake images produced by the generator.
+- **Generator**: Takes random noise vector as input --> generates synthetic images.
+- **Discriminator**: Tries to distinguish between real images from the dataset and fake images produced by generator.
 
 ## Results
 
-After training, the GAN is capable of generating new images that reliably resemble the fashion items from the Fashion MNIST dataset. Sample images are saved in the repository for reference.
+After training, the GAN is able to generate new images that resemble items from the Fashion MNIST dataset. Sample images are shown at the end of the notebook.
